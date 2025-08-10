@@ -1,65 +1,38 @@
-![Library-Management-System](https://socialify.git.ci/neerajcodes888/Library-Management-System/image?font=Raleway&language=1&name=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
-# Deployed Link(Click  👇)
+![Library-Management-System](lms_demo.gif)
 
-<div align="center">
-  [library Management System](http://ourlms2024.great-site.net/)
-</div>
+# Library Management System
 
-## A  Library Management System implemented using PHP, HTML, CSS, and JavaScript , MySQL.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Video Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
+## Overview
 This project is a web-based Library Management System that allows users to manage books, borrowers, and transactions in a library setting. It provides a user-friendly interface for both librarians and library members.
 
 ## Features
-- **Book Management:**
-  - Add, edit, and delete books.
-  - View details of each book, including availability status.
-- **Borrower Management:**
-  - Add and manage library members.
-  - Track borrowing history.
-- **Transaction Management:**
-  - Record book borrowings and returns.
-  - Calculate fines for overdue books.
-- **User Authentication:**
-  - Secure login and authentication for librarians and members.
-- **Responsive Design:**
-  - Mobile-friendly interface for easy access on various devices.
+- **Book Management:** Add, edit, and delete books. View details of each book, including availability status.
+- **Borrower Management:** Add and manage library members. Track borrowing history.
+- **Transaction Management:** Record book borrowings and returns. Calculate fines for overdue books.
+- **User Authentication:** Secure login and authentication for librarians and members.
+- **Responsive Design:** Mobile-friendly interface for easy access on various devices.
 
 ## Technologies Used
-- **Frontend:**
-  - HTML
-  - CSS
-  - JavaScript
-- **Backend:**
-  - PHP
-- **Database:**
-  - MySQL
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
 
 ## Installation
 1. Clone the repository:
   ```bash
-  git clone https://github.com/neerajcodes888/library-management-system.git
+  git clone https://github.com/Gyanendra-tech/Library-Management-System-.git
+  ```
+2. Set up your web server and database as per the documentation.
 
 ## Demo
-![lms](lms_demo.gif)
+![Library Management System Demo](lms_demo.gif)
 
 ## Contributing
-Feel free to contribute to this project. Fork the repository, make your changes, and submit a pull request.
-For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
 ## License
 MIT License
-Copyright (c) [2024] [Neeraj Kumar]
+Copyright (c) 2025 Library Management System Contributors
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
